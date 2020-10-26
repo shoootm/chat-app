@@ -66,12 +66,15 @@
   overflow: scroll;
 }
 
-
-}
-.header-title {
+.left-header{
+  padding-top: 36px;
   font-size: 24px;
   color: #333333;
-  margin-top:36px ;
+}
+
+}
+.header-title{
+
 }
 .header-button{
   margin-top: 40px;
